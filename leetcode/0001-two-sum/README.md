@@ -10,7 +10,6 @@
 | Language | Solution | Runtime | Memory |
 | --- | --- | --- | --- |
 | python | [solution.python.py](solution.python.py) | 0 ms | 13 MB |
-| python3 | [solution.py](solution.py) | 0 ms | 20.5 MB |
 
 <!-- notes -->
 
