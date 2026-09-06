@@ -10,7 +10,7 @@
 
 | # | Problem | Difficulty | Languages |
 | --- | --- | --- | --- |
-| 1 | [Two Sum](leetcode/0001-two-sum/) | Easy | python |
+| 20 | [Valid Parentheses](leetcode/0020-valid-parentheses/) | Easy | python3 |
 
 <!-- notes -->
 
