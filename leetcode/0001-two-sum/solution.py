@@ -9,4 +9,3 @@ class Solution(object):
                 return [seen[complement], i]
 
             seen[num] = i
-# revisited
